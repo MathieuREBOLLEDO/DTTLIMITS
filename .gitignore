@@ -3,8 +3,6 @@ DriftToTheLimits/Saved/ShaderDebugInfo
 DriftToTheLimits/Saved/Shaders
 DriftToTheLimits/Saved/StagedBuilds
 DriftToTheLimits/Saved/Temp
-*.tmp
-*.png
 DriftToTheLimits/Saved/Profiling
 DriftToTheLimits/Saved/MaterialStatsDebug
 DriftToTheLimits/Saved/MaterialStats
@@ -13,3 +11,5 @@ DriftToTheLimits/Saved/Crashes
 DriftToTheLimits/Saved/Cooked
 DriftToTheLimits/Saved/Config
 DriftToTheLimits/Saved/Autosaves
+*.tmp
+DriftToTheLimits/Saved/AutoScreenshot.png
