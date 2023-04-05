@@ -1,2 +1,15 @@
-﻿DriftToTheLimits/Saved
-DriftToTheLimits/Intermediate
+﻿DriftToTheLimits/Intermediate
+DriftToTheLimits/Saved/ShaderDebugInfo
+DriftToTheLimits/Saved/Shaders
+DriftToTheLimits/Saved/StagedBuilds
+DriftToTheLimits/Saved/Temp
+DriftToTheLimits/Saved/Profiling
+DriftToTheLimits/Saved/MaterialStatsDebug
+DriftToTheLimits/Saved/MaterialStats
+DriftToTheLimits/Saved/Logs
+DriftToTheLimits/Saved/Crashes
+DriftToTheLimits/Saved/Cooked
+DriftToTheLimits/Saved/Config
+DriftToTheLimits/Saved/Autosaves
+*.tmp
+DriftToTheLimits/Saved/AutoScreenshot.png
